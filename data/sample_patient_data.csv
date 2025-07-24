@@ -1,0 +1,5 @@
+age,bmi,blood_pressure,glucose,prev_admissions,length_of_stay,readmitted
+65,28.5,130,110,2,5,1
+40,22.0,115,90,0,3,0
+75,32.0,145,140,3,7,1
+55,24.5,120,100,1,4,0
