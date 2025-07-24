@@ -132,7 +132,6 @@ This project improved our understanding of:
 ## 👨‍💻 Contributors
 
 - [Piyush Prajapat](https://github.com/piyushprajapat-01)
-- [Kamlesh Prajapat](#)
 
 ---
 
